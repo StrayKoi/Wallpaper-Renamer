@@ -14,13 +14,11 @@ Basically I had a small folder full of wallpapers I've acquired over years on th
 
 ## Modules Used & Why
 ### OS
-os.walk and os.rename
-Self-explanatory, os.walk for the Python to see where my files are and browse any folders inside the folder path I specified. os.rename to rename the actual files
+`os.walk` and `os.rename`
+Self-explanatory, `os.walk` was used for the Python to see where my files are and browse any folders inside the folder path I specified. `os.rename` was used to rename the actual files
 
 ### Re
-The regular expression module was used check and ignore any wallpaper files that I had attempted to rename already. It would be redundant to see something like: wallpapername_1920x1080_1920x1080.png.
-
-The script will print the wallpaper name and print that the resolution was already in the file name.
+The regular expression module was used check and ignore any wallpaper files that I had attempted to rename already. It would be redundant to see something like: wallpapername_1920x1080_1920x1080.png. Without regular expression, running this script again in the same folder would also result in the redundant renaming.
 
 ### PIL ([Pillow](https://pypi.org/project/Pillow/))
 This was the only 3rd-party module that was used, the rest came built-in to Python.
@@ -40,7 +38,8 @@ I will admit it's a very rough script as it's one of my first Python scripts. It
 ### Ko-fi
 Ko-fi is basically a virtual tip jar where you can support creatives for about the price of a cup of coffee.
 
-At this time, I'm not very active on Ko-fi nor do I offer any rewards. If you love my art and feel like supporting me, hit the button below to get started.
+At this time, I'm not very active on Ko-fi nor do I offer any rewards. If you love my work and feel like supporting me, hit the button below to get started.
 
-I will appreciate any amount you choose to donate. Thank you (´• ω •`) ♡ !
+Tipping is optional but I will appreciate any amount you choose to donate. Thank you (´• ω •`) ♡ !
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I77G74)
