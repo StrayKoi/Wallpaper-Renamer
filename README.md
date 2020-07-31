@@ -21,9 +21,10 @@ I needed something that could check the file's image dimensions and Pillow did t
 # Other Notes
 This script will only rename .jpg, .jpeg, and .png and will ignore other file extensions such as .txt, .bmp, .svg.
 
-I will admit it's a very rough script as it's one of my first Python scripts. It already served its purpose but if I ever come back to this project, here are some changes I would like to see added:
-- Confirmation of folder path in case user entered to wrong location.
+I will admit it's a very rough script as it's one of my first Python scripts. It already served its purpose but if I ever come back to this project, here are some improvements I would like to add:
+- Confirmation of folder path in case user entered to wrong location on the first go.
 - Grouped list of items that were ignored or skipped listed at the end instead of seeing "Resolution already listed for: {wallpaper}" repeated and cluttered throughout.
 - Grouped list of items that will be renamed and a confirmation to rename everything on the list.
 - At the end, ask if there are any other folders that need wallpapers to be renamed.
-- Maybe an ability to export changes as an .csv? In case a user would need to go back and compare the old name with new name.
+- Regular expression could ask user if they would like to additionaly change a list of wallpapers manually. Such as wallpapers that are just random strings of letters and numbers.
+- Maybe an ability to export changes as an .csv in case a user would need to go back and compare the old name with the new name.
