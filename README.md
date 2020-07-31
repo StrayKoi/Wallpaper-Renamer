@@ -43,4 +43,4 @@ Ko-fi is basically a virtual tip jar where you can support creatives for about t
 At this time, I'm not very active on Ko-fi nor do I offer any rewards. If you love my art and feel like supporting me, hit the button below to get started.
 
 I will appreciate any amount you choose to donate. Thank you (´• ω •`) ♡ !
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'I2I77G74');kofiwidget2.draw();</script><br/>
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I77G74)
