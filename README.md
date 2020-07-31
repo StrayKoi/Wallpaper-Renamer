@@ -1,5 +1,6 @@
 # Wallpaper Renamer
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+
 This is a simple Python script I wrote to solve a problem that would have took me ages to rename manually. Instead of manually checking their dimensions from properties and then renaming, I wrote this script to take "wallpapername.png" and turn it into "wallpapername_1920x1080.png"
 
 ## Table of Contents
@@ -40,6 +41,7 @@ I will admit it's a very rough script as it's one of my first Python scripts. It
 
 ## License
 ![GitHub](https://img.shields.io/github/license/bambookoi/Wallpaper-Renamer)
+
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgements
