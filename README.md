@@ -118,6 +118,7 @@ Thanks to [Unsplash](http://unsplash.com) for the majority of wallpaper used in 
 <details open>
 <summary>Larger resolution sizes can be found by following the links.</summary>
 Everything is listed in alphabetical order by file name:
+
 - [andrew-coelho-aL7SA1ASVdQ-unsplash](https://unsplash.com/photos/aL7SA1ASVdQ)
 - [ben-den-engelsen-wJIq3S5mmM4-unsplash](https://unsplash.com/photos/wJIq3S5mmM4)
 - [chad-madden-9HDfRHhCxME-unsplash](https://unsplash.com/photos/9HDfRHhCxME)
