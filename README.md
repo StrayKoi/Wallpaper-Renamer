@@ -36,18 +36,18 @@ Here's a rough breakdown of what I'll be demonstrating:
 ### Before
 This is what the collection looks like before they are renamed including sub-folders. I've also thrown in a few `.txt`, `.pdf`, and `.bmp` files to show that they won't be renamed if there happens to be any in the folder. As well as included wallpapers that have been renamed. The folder `Empty` contains no files inside it to show what happens when `wallpaper_renamer.py` encounters it.
 
-![The folder before running wallpaper_renamer.py.](demo_before.gif)
+![The folder before running wallpaper_renamer.py.](demo_images/demo_before.gif)
 
 ### Running `wallpaper_renamer.py`
 
-![Demo of the Wallpaper Renamer in action.](demo_running.gif)
+![Demo of the Wallpaper Renamer in action.](demo_images/demo_running.gif)
 
 In this demo, you can see it took seconds to run and finish.
 Not shown: you can scroll back up to see all the changes and what was skipped.
 
 ### After
 
-![The folder after they were renamed.](demo_after.gif)
+![The folder after they were renamed.](demo_images/demo_after.gif)
 
 Not only was the main folder's wallpapers renamed, the subfolders were too. `.txt`, `.pdf`, and `.bmp` files were not touched and everything else was renamed.
 
