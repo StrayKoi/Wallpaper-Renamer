@@ -20,7 +20,7 @@ input('\nPress (ENTER KEY) to continue now.\n> ')
 title()
 for folder_path, folders, wallpapers in os.walk(location):
     print(f'\nWORKING IN: {folder_path}\n')
-    if len(os.listdir(path=folder_path)) == 0:
+    if len(os.listdir(path = folder_path)) == 0:
         print('There were no wallpapers found in this folder.')
     else:
         print('These are the new file names:')
