@@ -34,7 +34,7 @@ for folder_path, folders, wallpapers in os.walk(location):
                 with Image.open(f'{folder_path}/{wallpaper}') as im:
                     w, h = im.size
                 new_name = f'{os.path.splitext(wallpaper)[0]}_{w}x{h}{os.path.splitext(wallpaper)[1]}'
-                # os.rename(f'{folder_path}/{wallpaper}', f'{folder_path}/{new_name}')
+                os.rename(f'{folder_path}/{wallpaper}', f'{folder_path}/{new_name}')
                 print(new_name)
             else:
                 skipped.append(wallpaper)
