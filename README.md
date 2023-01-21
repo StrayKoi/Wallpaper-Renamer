@@ -60,7 +60,7 @@ Ability to:
 - [Python 3.8](python.org) with the help these Python modules:
     - os (built-in)
     - re (built-in)
-    - [Pillow](https://pypi.org/project/Pillow/ (3rd-party)
+    - [Pillow](https://pypi.org/project/Pillow/)
 
 ### How It Was Built
 #### OS
