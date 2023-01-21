@@ -109,7 +109,7 @@ There are more features I would like to add but I currently don't have the time 
 - Ability to save the changes on screen as a `.txt` .
 
 ## License ![GitHub](https://img.shields.io/github/license/bambookoi/Wallpaper-Renamer)
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GPL-3.0 License. See `LICENSE` for more information.
 
 ## Acknowledgements
 This project wouldn't be possible without [Pillow](https://pypi.org/project/Pillow/)
